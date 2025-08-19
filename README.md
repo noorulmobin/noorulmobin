@@ -1,9 +1,5 @@
 # 🌐 Noor Ul Mobin - Web Developer | DevOps Engineer  
 
-![banner](https://github.com/user-attachments/assets/066de2ea-6bad-4fc5-ae7c-316e7145f747)  
-![banner](https://github.com/user-attachments/assets/64a4cf28-a7e9-45a2-9c20-f74f17857c54)  
-![banner](https://github.com/user-attachments/assets/695712c5-1484-4bb4-bbd5-4361a6621e07)  
-![banner](https://github.com/user-attachments/assets/ca074ff4-b7e6-4a55-ac3d-7e786badebaf)  
 
 ---
 
