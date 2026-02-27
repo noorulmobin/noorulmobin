@@ -1,6 +1,5 @@
 # 🌐 Noor Ul Mobin - Web Developer | DevOps Engineer  
 
-
 ---
 
 ## 👋 About Me  
@@ -16,7 +15,7 @@ Hi! I’m **Noor Ul Mobin**, a passionate **Web Developer** and **DevOps Enginee
 ## 🚀 What I Do  
 
 ### 💻 Web Development  
-- **Front-end Development**: Responsive UI with **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS**  
+- **Front-end Development**: Responsive UI with **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS,React.js,Next.js**  
 - **WordPress Development**: Blogs, business websites, e-commerce solutions (Themes, Plugins, Customizations)  
 - **Code Quality**: Clean, structured, and scalable code  
 
@@ -89,7 +88,9 @@ Hi! I’m **Noor Ul Mobin**, a passionate **Web Developer** and **DevOps Enginee
 - 📧 **Email**: [noorulmobin0011@gmail.com](mailto:noorulmobin0011@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/noor-ul-mobin-28b65123b](https://www.linkedin.com/in/noor-ul-mobin-28b65123b)  
 - 🐙 **GitHub**: [github.com/noor-ul-mobin](https://github.com/noor-ul-mobin)  
+- 🎯 **Fiverr**: [fiverr.com/noorulmobin](https://www.fiverr.com/s/wk87yag)  
+- 💼 **Upwork**: [upwork.com/freelancers/~noorulmobin](https://www.upwork.com/freelancers/~017ce229893f4c6498?mp_source=share)  
 
 ---
 
-✨ *Always learning, always building – from websites to cloud-native apps!* 🚀  
+✨ *Always learning, always building – from websites to cloud-native apps!* 🚀
